@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lela Giorgadze
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Front-end
+- 🌱 I’m currently studying  Front-end (angular ✨)
 
 <!---
 lelagiorgadze999/lelagiorgadze999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
